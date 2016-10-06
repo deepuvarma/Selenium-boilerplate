@@ -4,7 +4,7 @@
 	<test name="Test">
 		<parameter name="browser" value="firefox" />
 		<parameter name="testdatapath"
-			value="/Users/kishorevarman/deepthi/workspace/Testproject/bin/projectAutomation/Testdata.xlsx" />
+			value="/Users/kishorevarman/deepthi/workspace/Testproject/Testdata.xlsx" />
 		<parameter name="sheet" value="input" />
 		<parameter name="Validation_statement" value="Please Select an Travel Date" />
 		<classes>
