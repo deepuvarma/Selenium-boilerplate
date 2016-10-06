@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="5">
+	<test name="Test">
+		<parameter name="browser" value="firefox" />
+		<parameter name="testdatapath"
+			value="/Users/kishorevarman/deepthi/workspace/Testproject/bin/projectAutomation/Testdata.xlsx" />
+		<parameter name="sheet" value="input" />
+		<parameter name="Validation_statement" value="Please Select an Travel Date" />
+		<classes>
+			<class name="projectAutomation.NewTest_testng" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
