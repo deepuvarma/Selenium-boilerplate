@@ -13,7 +13,8 @@ Data driven from excel file (path is given in testng.xml).
 
 ## Screenshot
 Below is the link of page and alert, which is handled in the script.
-https://cloud.githubusercontent.com/assets/19852817/19148512/9cf22892-8c19-11e6-87d5-04c863f36915.png
+![screen shot](https://cloud.githubusercontent.com/assets/19852817/19148512/9cf22892-8c19-11e6-87d5-04c863f36915.png)
+
 
 
 
